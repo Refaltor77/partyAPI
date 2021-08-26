@@ -1,2 +1,2 @@
 # partyAPI
-The API for create mini-game
+The API for create mini-game salut
